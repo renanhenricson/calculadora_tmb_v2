@@ -6,7 +6,7 @@ O projeto foi desenvolvido como uma aplicação prática para estudos de Python,
 
 📸 Preview
 
- ![Demonstração da Calculadora de TMB](demonstracao.gif)
+ ![Demonstração da Calculadora de TMB] (assets\demonstracao.gif)
 
 O GIF acima demonstra o funcionamento da aplicação.
 
