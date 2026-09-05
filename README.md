@@ -4,9 +4,15 @@ Aplicação desktop desenvolvida em Python utilizando CustomTkinter, criada para
 
 O projeto foi desenvolvido como uma aplicação prática para estudos de Python, interfaces gráficas e lógica de programação.
 
-📸 Preview
 
- ![Demonstração da Calculadora de TMB] (assets\demonstracao.gif)
+ # 🔥 Calculadora de TMB
+
+Calculadora de Taxa Metabólica Basal desenvolvida em Python utilizando CustomTkinter.
+
+## 🎥 Demonstração
+
+![Demonstração da aplicação](demonstração.gif)
+
 
 O GIF acima demonstra o funcionamento da aplicação.
 
