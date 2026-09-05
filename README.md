@@ -11,7 +11,8 @@ Calculadora de Taxa Metabólica Basal desenvolvida em Python utilizando CustomTk
 
 ## 🎥 Demonstração
 
-![Demonstração da aplicação](demonstração.gif)
+![Demonstração da Calculadora de TMB](assets/demonstracao.gif)
+
 
 
 O GIF acima demonstra o funcionamento da aplicação.
