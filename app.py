@@ -12,10 +12,13 @@ fator_atividade = {
 
 def calcular_tmb():
     try:
-        peso = float(campo_peso.get())
-        altura = float(campo_altura.get())
+        peso = (campo_peso.get())
+        altura = (campo_altura.get())
         idade = int(campo_idade.get())
         sexo = sexo_segmented.get()  # retorna "M" ou "F"
+
+        peso = float(peso.replace(",", "."))  # substitui vírgula por ponto, se necessário
+        altura = float(altura.replace(",", "."))  # substitui vírgula por ponto, se necessário
 
         if sexo == "M":
             for1 = 88.36 + (13.4 * peso) + (4.8 * altura) - (5.7 * idade)
